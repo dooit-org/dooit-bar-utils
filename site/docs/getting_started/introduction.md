@@ -8,7 +8,7 @@ Along with some pre-configured configs to get you started!
 
 ## Installation
 
-You can refere to [dooit's installation guide](/) which also includes `dooit-extras`
+You can refere to [dooit's installation guide](https://dooit-org.github.io/dooit/getting_started/installation.html) which also includes `dooit-extras`
 
 :::tip :grey_exclamation: NOTE
 Dooit extras uses [`Nerd Font Icons`](https://www.nerdfonts.com/) for everything, so make sure you're using that \
